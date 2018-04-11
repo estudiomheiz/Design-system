@@ -1,0 +1,183 @@
+{
+  "_class": "group",
+  "do_objectID": "F0FFC9D7-C48A-40D2-8186-F61BF1B2F445",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 929,
+    "width": 1152,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2C5B0193-91FB-4510-BDC6-6DF305CB2608"
+    },
+    {
+      "class": "bitmap",
+      "id": "0C953F70-8607-4122-916A-46FF9D0F7F98"
+    },
+    {
+      "class": "group",
+      "id": "1EF3441F-AD0D-4B9D-965A-DC28A9BCE362"
+    },
+    {
+      "class": "group",
+      "id": "E93B2275-724A-457C-B72A-F6B4979B3002"
+    },
+    {
+      "class": "group",
+      "id": "DECFD5FD-469A-4389-88B3-18633D7134BB"
+    },
+    {
+      "class": "group",
+      "id": "0D2A73FB-41EB-480C-A883-951E35A2619C"
+    },
+    {
+      "class": "group",
+      "id": "89FF2CE7-17FF-4451-9F11-85454D3A8273"
+    },
+    {
+      "class": "group",
+      "id": "A19EA28B-09DA-4186-9F54-C277AD56B050"
+    },
+    {
+      "class": "group",
+      "id": "9D5393D3-5D06-453B-A151-03D22B8EF49B"
+    },
+    {
+      "class": "group",
+      "id": "76E93696-2BDC-4A65-BED3-32CC973EF313"
+    },
+    {
+      "class": "group",
+      "id": "89500D6B-533E-48C5-B148-DACD29A6BB9B"
+    },
+    {
+      "class": "group",
+      "id": "1CE60F0C-E84E-48CE-97AB-B66F12ABFA0B"
+    },
+    {
+      "class": "group",
+      "id": "436CD1D5-44CE-4B81-A8CC-8F08D02BD085"
+    },
+    {
+      "class": "group",
+      "id": "4F18E184-2959-4E44-A407-FE33A6E722AA"
+    },
+    {
+      "class": "group",
+      "id": "18BEA311-6D76-48D6-9CCA-6A40328ED4F0"
+    },
+    {
+      "class": "group",
+      "id": "91D0D175-AF39-43B1-94AB-A8F50068FEA4"
+    },
+    {
+      "class": "group",
+      "id": "0649E5B9-D76B-4859-AF9D-DC70C0E59E73"
+    },
+    {
+      "class": "group",
+      "id": "D49BF827-45FA-435C-AE90-82DB77097FC4"
+    },
+    {
+      "class": "group",
+      "id": "72E4CCD2-0E09-4798-963F-844655DF03BC"
+    },
+    {
+      "class": "group",
+      "id": "4B701C2A-2378-400D-AF87-FDB4E9DA397C"
+    },
+    {
+      "class": "group",
+      "id": "368625AF-A1A7-4C28-9298-4D43C9849AA0"
+    },
+    {
+      "class": "group",
+      "id": "E7DBAE73-A6CD-439F-8113-4D249AEA2C08"
+    },
+    {
+      "class": "group",
+      "id": "DC17C9F2-368A-4CA9-A41E-05203FC3C18D"
+    },
+    {
+      "class": "group",
+      "id": "CF60A3A4-AEB8-4841-A323-CB4AD7579E01"
+    },
+    {
+      "class": "group",
+      "id": "EA655127-C214-45A8-9531-47482AD7F60F"
+    },
+    {
+      "class": "group",
+      "id": "E60F583D-CFAC-4D6A-8CD4-1506512867B9"
+    },
+    {
+      "class": "group",
+      "id": "2C5093DC-E234-4FB7-AAD4-6C1F27D75751"
+    },
+    {
+      "class": "group",
+      "id": "331A222B-1797-4C42-912E-2C70C905659F"
+    },
+    {
+      "class": "group",
+      "id": "86E0E52A-33CB-4AE1-9BFB-A66482BD288F"
+    },
+    {
+      "class": "group",
+      "id": "093FBFAB-CD52-44A2-8D19-941CAC2AADCC"
+    },
+    {
+      "class": "group",
+      "id": "841A4597-C92A-47C4-A31A-3BDEFB75D75F"
+    },
+    {
+      "class": "group",
+      "id": "C05816F6-4E18-4871-BF4B-7821ACF7392E"
+    },
+    {
+      "class": "group",
+      "id": "6BE545D5-C90D-4751-975A-71FB833436DA"
+    },
+    {
+      "class": "group",
+      "id": "5696C4E8-AD00-415F-BC87-5B9F1612FC55"
+    }
+  ],
+  "name": "00-foundations/grids/Desktop-Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

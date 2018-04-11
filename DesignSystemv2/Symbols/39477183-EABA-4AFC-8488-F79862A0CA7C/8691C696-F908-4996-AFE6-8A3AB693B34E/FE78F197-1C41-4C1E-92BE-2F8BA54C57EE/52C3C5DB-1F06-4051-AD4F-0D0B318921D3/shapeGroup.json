@@ -1,0 +1,59 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "52C3C5DB-1F06-4051-AD4F-0D0B318921D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 11.25290697674419,
+    "width": 15.97627906976744,
+    "x": 0,
+    "y": 0.1424418604651163
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F7268D0C-AFAE-4733-9DBC-BD2165A3A169"
+    },
+    {
+      "class": "shapePath",
+      "id": "CEA2DDD0-798E-4F41-AEBD-C2C1A8E3F4E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "581DDF20-7C0C-4046-BC85-0643F19F4F81"
+    }
+  ],
+  "name": "Fill 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D24627CB-0E1C-4AEB-8F3C-7B749FEBD9D6"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

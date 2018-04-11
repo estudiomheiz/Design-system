@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "F1D7507D-3A8A-478D-A272-77D3864A9327",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 368,
+    "x": 0,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A74FDA7E-5729-4B19-8B5A-F08C5907D323"
+    },
+    {
+      "class": "text",
+      "id": "635BD3C8-D5CD-4DFA-8B9F-4B11989FE5D9"
+    },
+    {
+      "class": "text",
+      "id": "D36729BB-F94C-4367-9B58-24B22C95654C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81AEB085-731F-4DA8-9D37-E02538B9477B"
+    },
+    {
+      "class": "text",
+      "id": "970A276F-B96D-41B5-BE5E-B23B3CAE2EC6"
+    }
+  ],
+  "name": "elements/form/mob/dropdown/error",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

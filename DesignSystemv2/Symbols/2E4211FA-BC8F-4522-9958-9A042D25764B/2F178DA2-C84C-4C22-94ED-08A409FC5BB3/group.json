@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "2F178DA2-C84C-4C22-94ED-08A409FC5BB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 368,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5876B1F3-DC17-49F6-B6E7-C7375F78A43A"
+    },
+    {
+      "class": "text",
+      "id": "EACCFC02-3F4D-455B-A6A4-A2F470E5BF6F"
+    }
+  ],
+  "name": "elements/form/mob/text-input/disabled",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

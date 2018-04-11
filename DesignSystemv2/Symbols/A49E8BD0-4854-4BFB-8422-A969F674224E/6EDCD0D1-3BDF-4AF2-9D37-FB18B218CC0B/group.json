@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6EDCD0D1-3BDF-4AF2-9D37-FB18B218CC0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 128,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8D0F472C-D517-4F3C-A20B-099E8F5E816F"
+    },
+    {
+      "class": "group",
+      "id": "D84CAB06-724F-4820-BFEE-370934CCD81B"
+    }
+  ],
+  "name": "elements/btns/mob/icon+text/secondary/default",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

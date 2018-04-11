@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "3289AD52-AEDB-4043-92F7-4EEE7295A266",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 48,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F1A698CD-558E-4459-A951-751D8BE7FEC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8618DF90-1A08-490C-AD98-D330BC655874"
+    }
+  ],
+  "name": "elements/btns/mob/icon/tertiary/pressed",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

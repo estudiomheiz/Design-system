@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "C060B868-9AB4-4651-98FD-16A2589E7E1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8798410E-3AAB-4CF4-B70B-3616B43D98F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "606C1E85-0099-4EB5-A5AD-DC6C3801CDB8",
+    "height": 176,
+    "width": 331,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FBBAE704-B70B-44CF-855C-7B11D8B230C3"
+    },
+    {
+      "class": "text",
+      "id": "74D79733-0F77-4A36-9147-6E64B0D99CD1"
+    },
+    {
+      "class": "text",
+      "id": "99453EA0-F7EC-4222-8625-49274E168F79"
+    }
+  ],
+  "name": "components/common/instruction/desk/tooltip/right-middle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C46A8102-7365-40B9-98FA-1248BBCEA98C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "do_objectID": "0EF3A1E2-5E0D-4195-B35D-19625898B3E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 36,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7087BE62-2410-4E6F-8821-B6E0E226B51F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29AE8D0C-EEDC-4AF6-8A8F-1ECE4EA37B34"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F436456D-392D-44D0-9C5E-56285D4A0AE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88CBC4F9-BE66-47EA-8B41-38D3493F5209"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5AD4F122-8F62-47F9-AFB7-46A18E1FF7A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BB79289-C074-49B9-B3DE-73FF4B1F7356"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5FEA916-025B-46C8-A109-93538A08CBDD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F1AE12D-B781-4FB9-AA22-5EFEC8041BAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FE95AE3-AC7A-4DF8-985E-64FC5C41D66E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA3E335B-DF15-46C1-BE54-AE67F2CBA878"
+    }
+  ],
+  "name": "desk/icons/3º/vehiculo_moto",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

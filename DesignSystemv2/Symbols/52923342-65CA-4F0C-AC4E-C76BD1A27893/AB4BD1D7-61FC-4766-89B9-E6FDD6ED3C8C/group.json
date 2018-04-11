@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "AB4BD1D7-61FC-4766-89B9-E6FDD6ED3C8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EBA00E5-62DD-4178-9221-828B4EDC1483",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E79FCC10-E2B1-423E-85CD-C61E08F51C92",
+    "height": 64,
+    "width": 304,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D5F7E98F-5A9B-4F21-BA73-2CE39CD64B06"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3F7550E-2CBA-4862-8BDC-293DD0E9649A"
+    },
+    {
+      "class": "text",
+      "id": "D5F2B47B-FF65-46BA-80A4-641835F610F2"
+    },
+    {
+      "class": "text",
+      "id": "D92FB673-4288-43F8-B6D1-A236CB027E65"
+    }
+  ],
+  "name": "components/common/instruction/desk/infobox/w-title/error",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "344974CE-8EAB-4178-B081-17AD9BE918D6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F39590AF-6A2E-459C-8C2B-F291AE718CAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F316D891-5D0E-41FB-B4DC-A1936D735F48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E22940D-E748-454E-8996-0C4C0473427F",
+    "height": 48,
+    "width": 128,
+    "x": 744,
+    "y": 4795
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/btns/desk/icon+text/primary/default copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FFF39D4-3724-417A-9A44-68F3FBF04B2A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ABA5E357-622E-4A66-88D9-CE8E87A40429",
+  "verticalSpacing": 0
+}

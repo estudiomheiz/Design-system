@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "1A277CF3-571A-4A5B-9746-5FEF3013E2E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 144,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4AC9E977-0153-4B18-94DE-1EB141837C59"
+    },
+    {
+      "class": "group",
+      "id": "758A98A4-4373-4109-B4CF-207C32FB6982"
+    },
+    {
+      "class": "group",
+      "id": "C19772A3-E873-4CD2-80B0-AD58CF83BAA8"
+    },
+    {
+      "class": "group",
+      "id": "3E38DF43-3243-49B7-9296-8A95D1E76A52"
+    },
+    {
+      "class": "text",
+      "id": "4CCB2BA5-862C-4105-9A35-CF150BE18EA2"
+    },
+    {
+      "class": "group",
+      "id": "8F744332-25F3-4153-A3BC-EAACB8F2B59A"
+    }
+  ],
+  "name": "elements/form/desk/date-picker/default",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

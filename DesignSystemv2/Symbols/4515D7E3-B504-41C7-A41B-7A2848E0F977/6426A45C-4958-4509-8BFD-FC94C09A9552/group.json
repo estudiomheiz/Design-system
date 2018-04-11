@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6426A45C-4958-4509-8BFD-FC94C09A9552",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 128,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5C3ADC3D-CE7D-4E86-80B1-2313B5AEF195"
+    },
+    {
+      "class": "group",
+      "id": "54BA19E9-8C2C-4581-B64E-33D15FD05808"
+    }
+  ],
+  "name": "elements/btns/desk/icon+text/tertiary/default",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

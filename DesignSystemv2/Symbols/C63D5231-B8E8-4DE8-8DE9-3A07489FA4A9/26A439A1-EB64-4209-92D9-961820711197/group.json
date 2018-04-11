@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "26A439A1-EB64-4209-92D9-961820711197",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D50043C6-0609-4A78-AB13-36556E93C369"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58FA6D16-8636-4B22-A285-94DE2B64477E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C97044ED-D16A-430B-A505-EABDF47AAA65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71A5FFC0-F24D-4A99-B287-F70D2D8E456A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76A96244-B609-41CE-9B7E-5DEE2A21AEA3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07925341-1C8A-44BB-86AE-4DB1046B722C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "827FF290-6983-4BBF-B01F-44BBB94F8EB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BFD2DA7-66F1-441B-81C9-3FD332405D20"
+    }
+  ],
+  "name": "desk/icons/7º/poliza-borrador",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6FFC7ECD-99BF-4FE5-A4D6-11726BBE3847",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 368,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "041BA015-C235-4945-B257-22D417BE6301"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FD89296-AE90-40F8-A089-0C85C080F129"
+    },
+    {
+      "class": "text",
+      "id": "A4178303-8950-4795-B12E-52CE66A2DB74"
+    },
+    {
+      "class": "text",
+      "id": "69E1FD86-BBC2-4C2F-8C8E-3ADB9BF20627"
+    }
+  ],
+  "name": "elements/form/desk/dropdown+autocomplete/disabled",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

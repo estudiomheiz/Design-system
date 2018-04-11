@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2AC09B56-52BC-4188-89A2-10F98A2AC73C",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 112,
+  "do_objectID": "A40561BE-E072-4CFC-85E2-711D905DC28B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0244C865-180B-4180-985E-B591C78C7A1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D94480AC-A255-4D73-A38C-24409B8BBBAB",
+    "height": 176,
+    "width": 331,
+    "x": 1552,
+    "y": 2836
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D750520C-9085-45F6-85DA-BDCB4D17BEB6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C060B868-9AB4-4651-98FD-16A2589E7E1F"
+    }
+  ],
+  "name": "components/common/instruction/desk/tooltip/right-middle-bottom",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1556A9D-B6A7-4C60-85E0-8B970C5DE297",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9E5C05A0-CA72-47B3-9075-BD0F773A1C37",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2B80D1E7-CA4E-482F-B8C3-D3C5C5C2B4D0",
+    "guides": [
+    ]
+  }
+}

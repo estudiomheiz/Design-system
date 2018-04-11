@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "9314D2AA-6BE2-4132-90F8-647C5BF79BF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C1FDD52-F003-4123-A96C-1357C1F46D6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4E0B456-618B-46AB-9AED-5B5BC2F02BCD",
+    "height": 42,
+    "width": 126,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2DECB15D-159E-4746-BE80-B9022F355D96"
+    },
+    {
+      "class": "group",
+      "id": "25620887-4A81-42E5-86FF-BE32F25A8351"
+    },
+    {
+      "class": "text",
+      "id": "8FDCA93C-2614-4FE9-AC45-3ED90712E913"
+    }
+  ],
+  "name": "components/common/instruction/mob/infobox/regular/default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E7D9353-95D9-4860-A935-4A52371143CB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

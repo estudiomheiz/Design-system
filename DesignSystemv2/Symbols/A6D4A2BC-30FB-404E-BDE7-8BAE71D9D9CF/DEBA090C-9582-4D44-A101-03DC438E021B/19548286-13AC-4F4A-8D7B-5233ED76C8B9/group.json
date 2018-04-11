@@ -1,0 +1,155 @@
+{
+  "_class": "group",
+  "do_objectID": "19548286-13AC-4F4A-8D7B-5233ED76C8B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41,
+    "width": 43,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4D9F6A8E-9CC7-4D0E-A344-82056D84F98D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B9AE7EE-1C21-40EB-B9D8-C55FA01C3F53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89F225DF-FEBD-4FDE-AFCF-62281913EEB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6FAF0FD4-FA72-4B55-8108-B1A64AEAC350"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F6B1C69-AA30-47C1-8C93-B6C3B80D00DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F6FA9D3-C32C-4842-9F15-E35652EA8AA6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FCA6B9F6-B89F-4445-A204-7FB013EA2B05"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "716D6A91-B105-4951-B1D1-89E6723AA334"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA1FF9B5-3592-45C8-9439-D24B01EE3DC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2EB4170-5283-43EB-B95D-627514C703EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "965BEF81-EF17-4C14-A297-995DFF46B118"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E44D01A-C468-4274-9588-34C8E050E0AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0AA99AE-430A-441D-9F8E-710264207EB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF81973E-13D9-4430-847D-C1419F623B21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "789EDD4C-99CD-4D0E-AC7F-E86B0C002771"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3FF1CD03-D28F-4D4A-8C7C-9BC92A93E520"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F98B73F4-75E0-4A7C-AE21-099C28498D58"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7789B2D9-F06B-4B95-971F-ED315C2A97D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13BFA791-DD5C-4289-B099-0287E6CBB463"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "56CDBB65-E30E-4944-849B-808665E6BF59"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2E6E8F9-F531-4DC8-9DEA-D489AC56D847"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7C60DE5-DEB2-47D0-BE9A-D7731702BBE6"
+    }
+  ],
+  "name": "desk/icon/categoria-auto/casa-rodante copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

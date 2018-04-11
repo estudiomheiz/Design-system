@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "C0D7F8C1-8D82-40BC-8F8D-3A32B3A02B72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2786BF26-E92E-4BA2-8BEC-02C489115359",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A27BB16-6C63-49FB-B5AE-0BE8EA31D56C",
+    "height": 56,
+    "width": 294,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A1A6350E-9852-467F-A391-0000AAACEAC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C22ED08-925B-49F8-8BEE-0B39DCE31E84"
+    },
+    {
+      "class": "text",
+      "id": "D5E77C07-6F55-4CC0-98DD-06204B7BB823"
+    },
+    {
+      "class": "text",
+      "id": "AF7FD271-5276-46B6-B818-9896E9FEE768"
+    }
+  ],
+  "name": "components/common/instruction/mob/infobox/w-title/error",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "2C711270-51E1-4E04-9DAD-F7DEC17C9064",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "F20CFE7A-D0D1-4F01-98DE-BC25C6D171B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28736658-DBCF-4D9A-86AF-B7B5662A5CA8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "849AF310-79A3-448A-8E37-571166587013",
+    "height": 73,
+    "width": 368,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B7B0F58C-E022-49C8-A0EE-3F59C8844BE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2448C327-1E90-47CE-AB25-17852B878219"
+    },
+    {
+      "class": "text",
+      "id": "51976F7C-53CE-4192-BB9E-DC1B0AF4E93E"
+    },
+    {
+      "class": "text",
+      "id": "B5ED731F-A150-41BC-AD7F-26FEF1574E22"
+    }
+  ],
+  "name": "elements/form/desk/dropdown/completed",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08C1D8F7-8DE5-47A5-B63C-A1E518A72A4D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "DA549DBA-5DFD-49B5-9E4F-1DFCCC1E435A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 97,
+    "width": 368,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9ECE1B68-1F3D-42FE-A909-3069E4A54E37"
+    },
+    {
+      "class": "text",
+      "id": "2582B7BE-2DBC-47B5-A894-5624CC2D308D"
+    },
+    {
+      "class": "text",
+      "id": "E9FD173A-E764-4D4C-9B6B-5A9EC7019F7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D00E5B0-806B-42C4-A686-7795EA522A34"
+    },
+    {
+      "class": "text",
+      "id": "F749C1F2-EA29-4656-AD18-4A431184C05A"
+    }
+  ],
+  "name": "elements/form/desk/dropdown/error",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

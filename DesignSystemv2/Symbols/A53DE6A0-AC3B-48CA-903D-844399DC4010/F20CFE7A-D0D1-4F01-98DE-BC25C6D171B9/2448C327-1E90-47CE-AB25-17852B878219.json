@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2448C327-1E90-47CE-AB25-17852B878219",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "001C9452-8872-4DB8-9F7C-FD0E7452EB6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21BE7559-8261-4B09-AAE0-99FF090896EE",
+    "height": 17,
+    "width": 16,
+    "x": 336,
+    "y": 40
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/icons/primary-brand/arrow-small-down",
+  "nameIsFixed": false,
+  "originalObjectID": "2428F6CF-1B79-43F2-8D24-B824BB5956B2",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88B936B4-6A0F-4804-B04D-5E687E520D4D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1E976B67-5A3B-49BA-BC68-356315A0DE93",
+  "verticalSpacing": 0
+}

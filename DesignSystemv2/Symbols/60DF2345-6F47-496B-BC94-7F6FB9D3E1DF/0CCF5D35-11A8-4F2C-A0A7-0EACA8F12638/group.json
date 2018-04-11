@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "0CCF5D35-11A8-4F2C-A0A7-0EACA8F12638",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D78E1124-80A2-4806-ABAD-8990D6778B0B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5A55919-2387-460C-A4D7-E4BAD5D39467"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "777BEDBB-D6D5-44D9-9611-A58EF8FEE3CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "49499B32-F859-4D03-ADC8-87FC229B7BFC"
+    }
+  ],
+  "name": "desk/icons/3º/rama_inmueble",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

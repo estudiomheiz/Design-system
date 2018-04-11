@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1247,
+  "do_objectID": "A79C9DE0-8273-4F83-AAB1-F54B4D9D93D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 16556,
+    "y": 116
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "40039624-A49A-451D-8BEF-9837CB2A0AA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6FCD7E62-E29B-4C3C-BE8B-528D3767EF96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98D677AA-4FB9-4AA2-8D4F-ED11A5506121"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DEE7B1BF-144A-415E-B2F9-3E24454590C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A8F1081-4B71-4CC4-8B5A-AE2D1BB5790D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A4FD357-52D6-4F6F-8157-E838BD1A4833"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B6F5418-F7A8-47A2-A93A-3CEF9BDB471C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72830D19-1E3F-46B1-BEA0-1780DF24CAAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7FD85F5A-3F78-4DBD-B874-9BF78C6D5A14"
+    }
+  ],
+  "name": "elements/icons/primary-text-dark/filter",
+  "nameIsFixed": false,
+  "originalObjectID": "A79C9DE0-8273-4F83-AAB1-F54B4D9D93D5",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "55C4B1E0-9A2F-42FB-9767-058FA114C614",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

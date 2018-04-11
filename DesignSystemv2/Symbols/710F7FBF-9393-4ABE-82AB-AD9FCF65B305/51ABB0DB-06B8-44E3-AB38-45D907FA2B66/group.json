@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "51ABB0DB-06B8-44E3-AB38-45D907FA2B66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 48,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "81C1DE60-41F2-4D4A-BED4-35166CDA0191"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F30CAF4-E8DA-4142-9438-43969CB15C17"
+    }
+  ],
+  "name": "elements/btns/mob/icon/primary/disabled",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

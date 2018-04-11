@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "02B400F9-3C88-4424-BEB5-C7ADAB39DE34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0EC87187-0FCA-4321-8292-FEACB81BBDC1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17DCD7AD-CC95-4819-BBDE-33D27981832C",
+    "height": 90,
+    "width": 368,
+    "x": 887,
+    "y": 1245
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/form/mob/text-input/default copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "482860B1-5EC2-4EE4-AF38-E50CD35FF871",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EF0439AE-FD78-4290-890F-E3F63A94DAF4",
+  "verticalSpacing": 0
+}

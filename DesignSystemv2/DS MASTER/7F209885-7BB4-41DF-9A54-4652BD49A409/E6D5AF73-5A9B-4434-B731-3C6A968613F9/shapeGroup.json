@@ -1,0 +1,47 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E6D5AF73-5A9B-4434-B731-3C6A968613F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DB92549-E6F4-4B7E-8C41-AE8A8258E726",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB31524D-1B81-42EA-B7C9-ADB6B1409A7E",
+    "height": 96,
+    "width": 247,
+    "x": 1433,
+    "y": 10712
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7CF554BC-7D6B-4986-854B-00F30C0EE985"
+    }
+  ],
+  "name": "Rectangle 9 Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "CF19EC90-2999-4903-AC17-948635AC69F7"
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "00ADBDAA-640C-4913-878C-8F0C103D9792",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 144,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1675EFFA-3412-437B-ADD9-E8E2E7C7594E"
+    },
+    {
+      "class": "group",
+      "id": "5322B489-9BED-4910-9F89-2A65E32AEBED"
+    },
+    {
+      "class": "group",
+      "id": "657B9BB1-1776-478C-9E71-01E5025FB0D9"
+    },
+    {
+      "class": "group",
+      "id": "CB8B9E20-873A-4F67-B9B1-8C84444B5A3A"
+    },
+    {
+      "class": "text",
+      "id": "4FA95301-F894-4F74-8D29-55D5B97C7F0F"
+    },
+    {
+      "class": "group",
+      "id": "A084D4EB-8A30-48E0-BD4B-CE226F042C08"
+    }
+  ],
+  "name": "elements/form/mob/date-picker/disabled",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "5C5ACFF5-EBBD-4538-BCB0-19EDF9436C7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 309,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6A5CDEBE-49E0-47E3-AB55-C1C198CFA6A5"
+    },
+    {
+      "class": "text",
+      "id": "C1011383-AE54-4295-96BB-519111139231"
+    },
+    {
+      "class": "text",
+      "id": "323162DF-14B2-48CC-A52F-695B33E7735D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97B6D00A-79AF-4E9E-A223-AB1C16818E2D"
+    }
+  ],
+  "name": "components/common/instruction/mob/modal/regular",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

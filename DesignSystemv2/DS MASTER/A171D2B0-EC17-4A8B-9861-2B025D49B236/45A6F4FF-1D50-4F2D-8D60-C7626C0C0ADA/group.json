@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "45A6F4FF-1D50-4F2D-8D60-C7626C0C0ADA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 264,
+    "width": 368,
+    "x": 542,
+    "y": 4010
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "25DA40CA-12E1-4769-9BEE-507DC942A4E2"
+    },
+    {
+      "class": "group",
+      "id": "1AEFB758-1C4A-49B1-A003-31261722AABA"
+    },
+    {
+      "class": "text",
+      "id": "C827EBC2-01BA-48F8-92DA-FBC0FC44DAE1"
+    }
+  ],
+  "name": "desk/forms/primary/input/dropdown with text input/focused copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

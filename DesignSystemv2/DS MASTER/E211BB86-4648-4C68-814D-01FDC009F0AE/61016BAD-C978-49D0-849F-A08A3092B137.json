@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcnNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAeHyAhIjM2PEBETE1OT1BUWGRlZmdoaWprbG5VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANfEC5BIGxhcmdlIHRpdGxlIGFsc28gd2l0aCB0d28gbGluZXMsIGxvb2tzIGdvb2Qu0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAGYAdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu2QojJCUmJygpKissLS0vMDAxMlpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QH05TVGlnaHRlbmluZ0ZhY3RvckZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRfEBJOU1dyaXRpbmdEaXJlY3Rpb25bTlNBbGlnbm1lbnSAC4AAgAmACSM/qZmZoAAAACNAQAAAAAAAABABEALSEgo0NaCACtI3ODk6WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaI5O1hOU09iamVjdNI3OD0+XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjPT87XxAQTlNQYXJhZ3JhcGhTdHlsZdIKQUJDXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCkVIS6JGR4AOgA+iSUqAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAFtSb2JvdG8tQm9sZNI3OFFSXxATTlNNdXRhYmxlRGljdGlvbmFyeaNRUztcTlNEaWN0aW9uYXJ50jc4VVZfEBBOU0ZvbnREZXNjcmlwdG9yolc7XxAQTlNGb250RGVzY3JpcHRvctMREgpZXh2kWltcXYAVgBaAF4AYpBxgYWKAGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAAIz/pmZmZmZmaIz/cHBwcHBwa0jc4U22iUzvSNzhvcF8QEk5TQXR0cmlidXRlZFN0cmluZ6JxO18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF0dVRyb290gAEACAARABoAIwAtADIANwBZAF8AZgBvAHYAgwCFAIcAiQC6AMEAyQDUANkA2wDdAN8A4QDmAOgA6gDsAO4A8AEDASUBUgFZAWwBdwGEAZABsgHEAdYB6wH3AfkB+wH9Af8CCAIRAhMCFQIaAhsCHQIiAi0CNgI+AkECSgJPAmkCbQKAAoUCogKkAqYCrQKwArICtAK3ArkCuwK9AtMC6QLyAv4DAwMZAx0DKgMvA0IDRQNYA18DZANmA2gDagNsA3EDcwN1A3cDeQN7A38DhQOKA5ADmQOiA6sDtAO5A7wDwQPWA9kD7gQABAMECAAAAAAAAAIBAAAAAAAAAHYAAAAAAAAAAAAAAAAAAAQK"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "61016BAD-C978-49D0-849F-A08A3092B137",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 514,
+    "x": 1020,
+    "y": 8731
+  },
+  "glyphBounds": "{{62, 8}, {389, 20}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "A large title also w",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "54672751-8481-4DE7-A9EF-B17BF1486CE0"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

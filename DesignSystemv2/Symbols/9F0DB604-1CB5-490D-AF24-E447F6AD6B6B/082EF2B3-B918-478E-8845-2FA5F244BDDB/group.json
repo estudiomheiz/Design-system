@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "082EF2B3-B918-478E-8845-2FA5F244BDDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 205,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "04A4AC06-F0F2-4C11-82C8-93E0CF02D4C1"
+    },
+    {
+      "class": "group",
+      "id": "8F4CFA02-ACCD-4D7D-9D5C-84460B7664E8"
+    }
+  ],
+  "name": "elements/form/mob/radio button/default-disabled",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

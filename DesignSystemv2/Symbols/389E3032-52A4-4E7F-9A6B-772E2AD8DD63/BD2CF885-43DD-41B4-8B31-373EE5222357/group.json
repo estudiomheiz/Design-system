@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "BD2CF885-43DD-41B4-8B31-373EE5222357",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8FEEEBA2-1CEB-4FF2-83FB-8C216282655F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DFD4623-33AC-4C8B-915D-7B11BA6094A4",
+    "height": 48,
+    "width": 128,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "48207F0A-C5FC-4320-B4B4-923AA96C1A8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0329718C-9FA2-4684-BEFC-B0B782B2BE1A"
+    },
+    {
+      "class": "text",
+      "id": "83CEF155-2A7F-414F-90A6-7520688DF094"
+    }
+  ],
+  "name": "components/common/instruction/desk/infobox/regular/error",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "578C7E68-3D84-442F-826C-18ED9AD80A73",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

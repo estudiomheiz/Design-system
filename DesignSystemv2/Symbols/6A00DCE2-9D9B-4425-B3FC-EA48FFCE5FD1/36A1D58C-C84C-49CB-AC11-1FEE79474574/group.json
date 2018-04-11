@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "36A1D58C-C84C-49CB-AC11-1FEE79474574",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "08336F78-8EE1-416E-929C-EBA9D9DE152B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10E53C0F-FD35-465C-A4B7-A6FB381A2994"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75E695FA-F61F-4079-9B9F-F97B950C3777"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "710F1A73-63D3-457B-92B7-0B9DDDD1D91E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0051F85B-395B-4078-AF7F-7D3D46D56A7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68DD40D9-A295-4737-B7D7-86FA7F04F770"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0DE5F6B2-ADF0-4FE4-8EB7-67705C395A44"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A33E1CDB-FC64-4A50-9951-D33866D3D519"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05CF8D4F-4E89-4A92-A9FB-A397F82F8CDA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "825F1523-0AC0-4E01-BDB2-5771ED1028C3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF0656D3-909E-4A5F-9DCF-EB551C15FB88"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71FE7B13-B8B8-4D6C-8479-C43DC209D61B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2067F40B-0C4C-47A4-882F-4C4086FD9E5F"
+    }
+  ],
+  "name": "desk/icons/5º/doc_propuesta",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

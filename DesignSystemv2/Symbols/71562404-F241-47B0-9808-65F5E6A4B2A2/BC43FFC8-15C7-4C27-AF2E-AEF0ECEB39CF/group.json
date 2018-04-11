@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "BC43FFC8-15C7-4C27-AF2E-AEF0ECEB39CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 336,
+    "width": 448,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F129DC1F-EDFD-4D7B-B7F5-A07ACB94D221"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10B77EF2-C12E-49E8-89A0-D7AFA084CB38"
+    },
+    {
+      "class": "text",
+      "id": "C05D1E92-671B-4DA7-9240-99B4D3A96776"
+    },
+    {
+      "class": "text",
+      "id": "F1EBBA14-7BE7-4E11-9625-026EF0CC6A36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B1CA983-0D16-42BA-95D8-297B0E500605"
+    }
+  ],
+  "name": "components/common/instruction/desk/modal/notification",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fKywtLi8wNjpCQ0RFRklNV1tVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANvEEAASgB1AHMAdAAgAGEAIABUAGkAdABsAGUAIAB3AGkAdABoACAAdAB3AG8AIABsAGkAbgBlAHMAICAoAHMAbwAgAHcAZQAgAGMAYQBuACAAcwBlAGUAIAB0AGgAZQAgAHQAaABpAG4AZwBzACAAaQBuACAAYQBjAHQAaQBvAG4ALtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4AOgBaADV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xESCiAlG6QhIiMkgAiACYAKgAukJiYmJoAMgAyADIAMgA1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP/AAAAAAAADSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaIzNVhOU09iamVjdNIKNzg5XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFYAP0xESCjs+QaI8PYAQgBGiP0CAEoATgBRfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF8QEk1vbnRzZXJyYXQtUmVndWxhctIxMkdIXxATTlNNdXRhYmxlRGljdGlvbmFyeaNHMzXSMTJKS18QEE5TRm9udERlc2NyaXB0b3KiTDVfEBBOU0ZvbnREZXNjcmlwdG9y1k5PUApRUlNUVVZTVVtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBABgAAjQEAAAAAAAACAF9IxMlhZXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjWFo1XxAQTlNQYXJhZ3JhcGhTdHlsZdIxMlxdXxASTlNBdHRyaWJ1dGVkU3RyaW5nol41XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WFiVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAQYBDQEVASABJAEmASgBKgEuATABMgE0ATYBYwGFAZgBnwGkAaYBqAGqAawBsQGzAbUBtwG5AbsBvwHFAcoB0AHZAd4B6QHyAf8CAgILAhACLQIvAjECOAI7Aj0CPwJCAkQCRgJIAl4CdAJ9ApIClwKtArECtgLJAswC3wLsAvgDAwMVAzcDSQNLA00DVgNYA10DdwN7A44DkwOoA6sDwAPSA9UD2gAAAAAAAAIBAAAAAAAAAGMAAAAAAAAAAAAAAAAAAAPc"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "943C19A7-C390-4EA7-9073-F007E2E70AEE",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 514,
+    "x": 1259,
+    "y": 1878
+  },
+  "glyphBounds": "{{103, 7}, {411, 55}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Just a Title with tw Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "7172AF3A-589E-4414-B09C-D0167E6B3767"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

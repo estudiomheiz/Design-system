@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "ECD407F8-72C8-4668-A9CC-737B6FA30CAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B36090CA-DC1D-4CFA-A4E1-CFC3963C031A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02C88549-863E-4B60-9F56-76554D0940E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDC573D4-8B37-4DA4-9145-CA1B0D7BD465"
+    }
+  ],
+  "name": "desk/icons/5º/money-elipse",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

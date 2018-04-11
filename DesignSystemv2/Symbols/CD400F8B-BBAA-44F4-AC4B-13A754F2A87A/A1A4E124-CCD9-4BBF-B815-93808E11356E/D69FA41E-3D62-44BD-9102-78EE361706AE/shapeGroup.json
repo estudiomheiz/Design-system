@@ -1,0 +1,153 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D69FA41E-3D62-44BD-9102-78EE361706AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E7F9E895-2281-48BF-9479-199CEF95E518"
+    },
+    {
+      "class": "shapePath",
+      "id": "D52289A4-9E58-4912-8DA3-B4162B48A3D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "81060FCF-A6ED-41F1-BB66-381530A35C33"
+    },
+    {
+      "class": "shapePath",
+      "id": "01711A47-4AE1-4653-A5F4-2C1472489D05"
+    },
+    {
+      "class": "shapePath",
+      "id": "802ED135-B293-473B-8B67-52C42A4FFC9E"
+    },
+    {
+      "class": "shapePath",
+      "id": "AABFD91A-9487-44CE-9996-8992446EE731"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D52C95A-1700-4134-A247-89B0C5042B2D"
+    },
+    {
+      "class": "shapePath",
+      "id": "1BED7050-A3E4-44AC-AE2D-B9D0E68C6048"
+    },
+    {
+      "class": "shapePath",
+      "id": "01E2811C-EC3D-45F6-AAA4-3FA854406753"
+    },
+    {
+      "class": "shapePath",
+      "id": "44D85076-3D1C-4B11-9797-5FE0AB5ABCD0"
+    },
+    {
+      "class": "shapePath",
+      "id": "EEC81112-3470-4264-9F24-7F27F9E42E92"
+    },
+    {
+      "class": "shapePath",
+      "id": "85037906-2CA8-4B30-8117-42BC30E82F02"
+    },
+    {
+      "class": "shapePath",
+      "id": "3052F12A-74D8-44FB-AC1B-680B2840E0DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "B15A0696-A2AA-4091-8B28-F3304FB6532C"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E36C72F-ABEF-42CF-9DF3-63F849DB97C9"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D2CF3E1-774C-451D-BE52-9D389880349C"
+    }
+  ],
+  "name": "icons/1º/line-02/calendar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D24627CB-0E1C-4AEB-8F3C-7B749FEBD9D6"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 14,
+            "enabled": 1,
+            "modelID": "constraint_5d1053f4-220e-4fc8-9c7c-1bbed86dbd06",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 16
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_855a8376-7ac7-4363-93f3-b17c0cb87c89",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

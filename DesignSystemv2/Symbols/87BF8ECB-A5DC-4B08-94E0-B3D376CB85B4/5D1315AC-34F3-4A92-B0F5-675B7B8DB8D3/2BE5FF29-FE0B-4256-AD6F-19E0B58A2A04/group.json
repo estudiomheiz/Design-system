@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "2BE5FF29-FE0B-4256-AD6F-19E0B58A2A04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E1A3A12-EC18-4560-9310-391B76340A15"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95E111A4-E2AE-4B38-984E-35A5B205B2FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8EE98D6E-7241-40BB-BF97-08AE2F09DA2A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2B4B950-20F7-4836-82FC-2D94687353FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12A0B986-824C-4EF3-9BD4-60EDDE4B1904"
+    }
+  ],
+  "name": "desk/icons/6º/cotiz_pendiente_aprob",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

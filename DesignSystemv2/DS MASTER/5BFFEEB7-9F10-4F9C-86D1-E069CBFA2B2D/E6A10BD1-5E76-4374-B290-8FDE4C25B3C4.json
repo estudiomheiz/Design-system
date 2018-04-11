@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E6A10BD1-5E76-4374-B290-8FDE4C25B3C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "675D3184-9303-437E-AF04-EF317DDCA00C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21E09E2D-0D4E-4FE0-9D1F-2064B00C8F97",
+    "height": 48,
+    "width": 128,
+    "x": 742,
+    "y": 5816
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/btns/mob/icon+text/secondary/default copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "591DC633-C92E-43A0-B850-9652E3FAD8AB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9F5C8C2E-F06D-4C95-AF62-9317D97DE783",
+  "verticalSpacing": 0
+}

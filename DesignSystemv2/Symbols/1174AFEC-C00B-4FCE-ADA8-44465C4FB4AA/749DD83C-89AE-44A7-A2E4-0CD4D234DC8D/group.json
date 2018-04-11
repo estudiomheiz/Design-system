@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "749DD83C-89AE-44A7-A2E4-0CD4D234DC8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 368,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AE6AE213-7C4D-4328-8D4A-6545453006FF"
+    },
+    {
+      "class": "text",
+      "id": "855C28E5-45F8-4AEE-897B-EDBD6FBB1CC5"
+    }
+  ],
+  "name": "elements/form/desk/text-input/focused",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "00BBC242-7E6B-4F98-8057-C09B89B57DA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 32,
+    "x": 352,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "70E2BDD8-A084-4D4B-9F2E-59EF73BFB9DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CC052C3-70F0-4733-A7FF-2A04477586FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1233979C-9775-47DA-9195-7606B5A7B279"
+    },
+    {
+      "class": "text",
+      "id": "7F445B15-8C25-476E-A83C-FB4E24546B28"
+    }
+  ],
+  "name": "32px-Gutter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

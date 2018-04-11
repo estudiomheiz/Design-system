@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "4EBE2FDE-17FA-4F63-BC92-F2BF2ECA7E00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFDDCEDE-ACB0-4752-994B-BF389B9A46F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8664FE35-B4BB-4A09-A14E-5A25FCC180D8",
+    "height": 64,
+    "width": 304,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E4FC60DD-AFCD-4243-B45D-47B4027870FC"
+    },
+    {
+      "class": "group",
+      "id": "603520C8-6699-47F0-A07F-D2DB4C53E7A9"
+    },
+    {
+      "class": "text",
+      "id": "3DDDF8C2-CF05-4634-ADD9-93449D843B17"
+    },
+    {
+      "class": "text",
+      "id": "E7CF55CB-E8D6-4861-B198-297B5D5FF1A3"
+    }
+  ],
+  "name": "components/common/instruction/desk/infobox/w-title/default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "B80B5B96-D519-431D-8291-4A6F825F6DA3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

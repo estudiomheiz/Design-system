@@ -1,0 +1,155 @@
+{
+  "_class": "group",
+  "do_objectID": "2B6FD39F-E021-4EFA-847E-EE0E256F47AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41,
+    "width": 43,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F88E6C93-5F07-4350-BAD4-0B62A02F70B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7ADF3582-0725-4240-82C7-513132EDDC21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52931C68-81A6-4A30-AD9A-81031BD455C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C8D9031-818E-4642-9299-827AD50E11FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F2AAB2D-5888-4177-8A91-0B04A9C222F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05FFDDAC-B699-44E0-8502-4651536131DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B599928-D4A5-49FB-9C42-958C0126346A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "182E8CAA-993B-42F2-AC35-844CD9975CFB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "90B57979-30A5-441F-893A-D41B2D6BBB37"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C6800D7-1AC7-467F-AD56-1AD15CB38061"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "878A5356-6B89-4986-9A2A-E6F267BB7F61"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B65D83B1-879A-4FCD-86C7-7A1F42ABF71D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "133E284F-044B-484D-9B82-DE59CA81E303"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "63DD67E7-993E-4257-8D4B-00ED8E00FAE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B34F1FB8-0DBA-4798-98BA-0623C1B9A67C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07681859-0C3C-4BB1-B03D-659D514F0F55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "80D84E76-4698-4040-8E59-14C5BA2E9541"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "882006A8-AE41-4419-856F-3C7E9FD3DC4C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "230B18C8-FA7A-429D-8EF7-614D7FB60952"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "056254A8-BAE9-4CE3-B726-ADA9EA718507"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F138BE5C-0771-4F40-BE0F-C31CB1E7EC5F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA2F4D02-900F-48B8-9FC6-93E3E7A86ECE"
+    }
+  ],
+  "name": "desk/icons/3º/vehiculo_motorhome",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

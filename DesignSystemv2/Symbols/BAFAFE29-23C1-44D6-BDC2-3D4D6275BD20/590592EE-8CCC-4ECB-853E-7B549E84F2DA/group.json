@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "590592EE-8CCC-4ECB-853E-7B549E84F2DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0899BF7B-DD18-4690-8B86-6F0F0BDFDE1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3DA31B08-4342-463B-8EA8-C9759B77B6E1",
+    "height": 56,
+    "width": 294,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DC357E69-D975-48B0-BC37-B65E4D9ED201"
+    },
+    {
+      "class": "group",
+      "id": "4FAC82F1-76FD-47D1-9DD0-FF0B16D331E7"
+    },
+    {
+      "class": "text",
+      "id": "14096650-EB5B-4FD6-A5B8-CD6106B24503"
+    },
+    {
+      "class": "text",
+      "id": "6FDF00F5-A615-4141-98FC-A48FB96AA79A"
+    }
+  ],
+  "name": "components/common/instruction/mob/infobox/w-title/default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "CAD381C9-D8BB-400A-9BEF-4CA15120A22F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

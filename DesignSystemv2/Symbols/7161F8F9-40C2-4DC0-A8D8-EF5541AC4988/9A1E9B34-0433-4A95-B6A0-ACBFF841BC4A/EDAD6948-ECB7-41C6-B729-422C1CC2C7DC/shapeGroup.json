@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "EDAD6948-ECB7-41C6-B729-422C1CC2C7DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 11.05745159798509,
+    "width": 16,
+    "x": 0,
+    "y": 0.6666666666665151
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BE257371-E8A9-4F25-BF49-11CC8D3A1B69"
+    },
+    {
+      "class": "shapePath",
+      "id": "A3E8A5D7-D68E-4AEB-9A90-971AF1B75285"
+    },
+    {
+      "class": "shapePath",
+      "id": "DB212985-A169-457F-BC05-6DBF8831E9D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "FBA7CF09-DCDC-43A2-ABEF-19C30B7E6E81"
+    },
+    {
+      "class": "shapePath",
+      "id": "F651B38D-F9C2-4212-AEA5-6CB7F1BA8C0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "72456E3B-9A83-40DD-A8DA-EA05BB824E82"
+    }
+  ],
+  "name": "Fill 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C7918EDD-72FA-478D-BB42-B5BA168FB462"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 11.05745,
+            "enabled": 1,
+            "modelID": "constraint_3226b47f-bd71-487c-8e7d-164f23686636",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 16
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5f3a0c99-60f9-4f42-911b-0694090f96a4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

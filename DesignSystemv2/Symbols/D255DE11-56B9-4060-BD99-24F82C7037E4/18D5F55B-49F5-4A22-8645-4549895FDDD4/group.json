@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "18D5F55B-49F5-4A22-8645-4549895FDDD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F03E84F6-531B-414A-8CA1-571F15995BC7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "545D4F79-CC25-41B5-ACD5-23C4A28C2A0C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C2807D5C-1C7E-464D-8CDB-DCFAE662FB8D"
+    }
+  ],
+  "name": "desk/icons/2º/printer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

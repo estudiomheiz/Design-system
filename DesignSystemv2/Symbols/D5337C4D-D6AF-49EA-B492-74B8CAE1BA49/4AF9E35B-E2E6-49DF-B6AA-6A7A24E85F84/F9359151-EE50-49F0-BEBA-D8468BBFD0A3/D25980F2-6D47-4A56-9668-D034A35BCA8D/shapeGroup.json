@@ -1,0 +1,103 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D25980F2-6D47-4A56-9668-D034A35BCA8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14.54038709677419,
+    "width": 15.72370624571036,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "452174D1-EB87-443C-A9D7-03A33DC9355C"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB2C24F9-15E7-4814-ABDB-E8E904115DD1"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C65D469-2E72-4AFA-817D-F7B1A6A5A446"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1A46C0D-2872-43AB-8184-C4AC39829F63"
+    },
+    {
+      "class": "shapePath",
+      "id": "352665CA-FC1F-44A7-ACAD-7B313762CF48"
+    },
+    {
+      "class": "shapePath",
+      "id": "D79BDE1A-6468-4A63-A20C-2F99DDE29A42"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9F39024-3A76-4FD4-B4DB-07A85F5D8407"
+    },
+    {
+      "class": "shapePath",
+      "id": "63C49537-11BD-4A03-B307-8BFB4C92797A"
+    },
+    {
+      "class": "shapePath",
+      "id": "66BB5467-F15D-4C10-8BB3-2F919E659487"
+    },
+    {
+      "class": "shapePath",
+      "id": "0AE9EF30-F5ED-4CD5-BDF5-0750E7D524A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "19979F21-E27C-4455-83C4-BBCD117C99BC"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C2364D3-6B9C-461D-8D79-0D2156088E36"
+    },
+    {
+      "class": "shapePath",
+      "id": "E173075F-DA1D-47F5-B981-69A05B84D393"
+    },
+    {
+      "class": "shapePath",
+      "id": "B9CD828A-6950-4D6A-A3FA-3183C29988D1"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "94408948-C1AB-4F0E-99FC-A6FBF54D74BD"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

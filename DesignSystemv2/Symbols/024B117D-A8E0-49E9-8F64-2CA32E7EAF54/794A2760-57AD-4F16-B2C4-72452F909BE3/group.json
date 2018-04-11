@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "794A2760-57AD-4F16-B2C4-72452F909BE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 331,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5BEACF3C-5684-43F4-9FE4-2132032D2315"
+    },
+    {
+      "class": "text",
+      "id": "DFCF81BD-DA94-4421-934F-363A7C9CB59B"
+    },
+    {
+      "class": "text",
+      "id": "E7586F6B-CD79-4E32-8AE0-43CA4E7C8B59"
+    }
+  ],
+  "name": "components/common/instruction/desk/tooltip/right-middle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

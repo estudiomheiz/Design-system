@@ -1,0 +1,139 @@
+{
+  "_class": "group",
+  "do_objectID": "10EA6EEE-72C1-4ED6-81A7-BD21EF8138F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 58,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E52CE96E-D55B-449E-971C-E0A8C38D3D9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "285F4905-C17C-46AC-B606-FF91B3FFA078"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6717B47E-1925-464C-8987-B7F361E9270B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8F40BA4-1B2B-4D4D-9489-B654E02C8BDA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "148DB116-3839-4C6E-884A-DD48AF117A40"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7CBF5497-8492-45CA-83B3-C245E95FDF87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "854765DC-4FD9-49BA-AF64-6519326E4345"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CBBCDE8B-6D3D-414E-AF13-47FD3DE02571"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA9B945C-F67C-40CB-B89C-4D9BFF2FA06A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92F456C1-39CA-4040-88A6-2D867DDA6571"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0BD65F71-B252-4369-81D6-E10644FB1C66"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19C8F699-1156-495D-B4DB-B48C3E32D9EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF46766B-72A5-4D09-92C4-62820B81254A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E7851FD9-BDB6-48AE-AA1F-EF5421A2EA9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF370AD5-E361-4918-B705-3F0618A890B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "787B3B08-AB01-4005-8D47-B3E193E954F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "608238CF-E09B-4426-9329-00E6A8B67A39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "660C100C-9BA8-469E-995F-1F19684ABD36"
+    }
+  ],
+  "name": "desk/icons/6º/vehiculo_minibus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

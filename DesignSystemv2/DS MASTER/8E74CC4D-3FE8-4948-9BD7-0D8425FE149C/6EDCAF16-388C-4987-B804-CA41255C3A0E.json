@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fKywtLi8wNkFFSVFSU1RVWFxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfEC5BIGxhcmdlIHRpdGxlIGFsc28gd2l0aCB0d28gbGluZXMsIGxvb2tzIGdvb2Qu0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgA6AEIANXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTERIKICUbpCEiIySACIAJgAqAC6QmJiYmgAyADIAMgAyADVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojM1WE5TT2JqZWN01jc4OQo6Ozw9Pj9APltOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBAEgAAjQDwAAAAAAACADxAB0jEyQkNfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNCRDVfEBBOU1BhcmFncmFwaFN0eWxl0gpGR0hfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AXgBHTERIKSk1QoktMgBKAE6JOT4AUgBWAFl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AxgAAAAAAAXlJvYm90by1SZWd1bGFy0jEyVldfEBNOU011dGFibGVEaWN0aW9uYXJ5o1YzNdIxMllaXxAQTlNGb250RGVzY3JpcHRvcqJbNV8QEE5TRm9udERlc2NyaXB0b3LSMTJdXl8QEk5TQXR0cmlidXRlZFN0cmluZ6JfNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFiY1Ryb290gAEACAARABoAIwAtADIANwBTAFkAYABpAHAAfQB/AIEAgwC0ALsAwwDOANIA1ADWANgA3ADeAOAA4gDkAREBJAFGAU0BUgFUAVYBWAFaAV8BYQFjAWUBZwFpAW0BcwF4AX4BhwGMAZcBoAGtAbABuQHGAdIB3QHvAhECIwIlAicCMAIyAjQCOQJTAlcCagJvAowCjgKQApcCmgKcAp4CoQKjAqUCpwK9AtMC3ALrAvADBgMKAw8DIgMlAzgDPQNSA1UDagN8A38DhAAAAAAAAAIBAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAOG"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6EDCAF16-388C-4987-B804-CA41255C3A0E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 514,
+    "x": 758,
+    "y": 11357
+  },
+  "glyphBounds": "{{0, 6}, {334, 18}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "A large title also w Copy 14",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "01E18F56-3B65-4E50-B35B-B5C42FAE9274"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

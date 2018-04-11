@@ -1,0 +1,139 @@
+{
+  "_class": "group",
+  "do_objectID": "CB43926A-9810-4E81-B3E2-44FB95FC06FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 67,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C6157C62-8E3D-4DD3-9AF4-00F8AB9C0B46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE8F95D7-7F84-4671-88A6-051F3B0D7B99"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C31CE39-B802-41AD-B1B2-F17C63C886B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F8FDD65C-A7B7-447F-845A-D0B4E9843158"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "84CEE3C2-640C-42AC-9F32-5D88CE2002A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32B66FAA-DBAB-4451-81F5-3C4FFC6BC1CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F06CA972-820D-431F-8C9D-6D96098DAE4A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4DFA17A-CB46-467C-8A0D-C5BC6DE28C25"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5183C235-C23E-4916-BC51-173599FE8F07"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5505CDFC-9246-4320-829C-983169CC4DE8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "60A91B04-804B-4716-A02D-DD0129817CC9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "375DBE94-1FEE-4933-A5D0-E0F4CF54C84E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C193E04F-CBDA-4077-8A3D-6106ADD2321E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F48CE482-35F3-43B4-A9D1-64A164E066AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED5E8C46-9406-42A4-95BE-F9FF20E58464"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6EF9E85A-46CF-49B6-B5D0-82F03EA327B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0334D109-6AD0-450D-89D1-F6BCD4E04884"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FBEB71DC-1471-46BE-9AB8-92C525B485CE"
+    }
+  ],
+  "name": "desk/icons/3º/vehiculo_tractor",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

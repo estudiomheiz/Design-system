@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "22CD7214-8E60-46D2-A387-3C8A0E7840C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA5B1F4F-FFB0-4A19-9AC0-DDC158C1835A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B1CE423E-5516-4BD0-9109-D8E26C23953D",
+    "height": 48,
+    "width": 128,
+    "x": 1013,
+    "y": 895
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/btns/desk/default-button/primary/default copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF57F97A-5C06-427F-A517-BBB1F6B5AE61",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4D41DE1C-7454-4F36-8E2C-447E8626D36C",
+  "verticalSpacing": 0
+}

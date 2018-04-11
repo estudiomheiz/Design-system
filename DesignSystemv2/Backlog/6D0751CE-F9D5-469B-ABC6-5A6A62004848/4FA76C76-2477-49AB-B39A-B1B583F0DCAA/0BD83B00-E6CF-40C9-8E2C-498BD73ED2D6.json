@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fKywtLi8wNkFFSVFSU1RVWFxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfEBRTaW5nbGUtbGluZSBzbmFja2JhctMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4AOgBCADV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xESCiAlG6QhIiMkgAiACYAKgAukJiYmJoAMgAyADIAMgA1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP/AAAAAAAADSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaIzNVhOU09iamVjdNY3ODkKOjs8PT4/QD5bTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHQQBIAAI0A4AAAAAAAAgA8QAdIxMkJDXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjQkQ1XxAQTlNQYXJhZ3JhcGhTdHlsZdIKRkdIXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAF4AR0xESCkpNUKJLTIASgBOiTk+AFIAVgBZfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF5Sb2JvdG8tUmVndWxhctIxMlZXXxATTlNNdXRhYmxlRGljdGlvbmFyeaNWMzXSMTJZWl8QEE5TRm9udERlc2NyaXB0b3KiWzVfEBBOU0ZvbnREZXNjcmlwdG9y0jEyXV5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXzVfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYmNUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAmgChAKkAtAC4ALoAvAC+AMIAxADGAMgAygD3AQoBLAEzATgBOgE8AT4BQAFFAUcBSQFLAU0BTwFTAVkBXgFkAW0BcgF9AYYBkwGWAZ8BrAG4AcMB1QH3AgkCCwINAhYCGAIaAh8COQI9AlACVQJyAnQCdgJ9AoACggKEAocCiQKLAo0CowK5AsIC0QLWAuwC8AL1AwgDCwMeAyMDOAM7A1ADYgNlA2oAAAAAAAACAQAAAAAAAABkAAAAAAAAAAAAAAAAAAADbA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "0BD83B00-E6CF-40C9-8E2C-498BD73ED2D6",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1ABF68D-8DD9-42EC-A3DA-88E863C0BDDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3263C1F-2594-4B55-8BE0-9C8A4901DC4E",
+    "height": 24,
+    "width": 125,
+    "x": 23.9998999999998,
+    "y": 18.9994999999999
+  },
+  "glyphBounds": "{{0, 2}, {125, 14}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Single-line snackbar",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C066C62E-59F1-4B75-A79F-6E66992694CB"
+  },
+  "textBehaviour": 0
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "do_objectID": "7DE6A680-93DB-4707-AF27-ECF972005B97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 13,
+    "width": 16,
+    "x": 0,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4758B459-40B3-47C3-B101-FAACC7C7FCFC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D9344D9A-2ADD-4A81-ACE3-591D466126C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95456F91-F9F2-455E-B7FD-FA81D93622E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0BAFD34B-3BAA-4B96-BC05-D73D05F2D4DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3878AE4C-AD9E-48DB-85E9-AF550BE46E0B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAFE9AC8-A7EB-44FD-857F-0CF7440D008B"
+    }
+  ],
+  "name": "desk/icons/1º/rama_vehiculos",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

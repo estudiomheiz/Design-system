@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "21C0B373-CCBC-4629-A547-0D1E2503B67A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C0E883F8-DCD9-4277-9E7D-9A205BA82016"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F2A532C-E87F-44E8-AB67-809646AA6F2D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2DE57CE0-27EA-43A7-B76E-894629C310FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D00F6DAF-DA5C-4463-8670-F896FF8B1758"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52751329-CB3D-48E7-8546-AC11EF7AC42A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6CC90353-50CC-47A2-A61E-2F545472B9FF"
+    }
+  ],
+  "name": "desk/icons/7º/poliza-enviada",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

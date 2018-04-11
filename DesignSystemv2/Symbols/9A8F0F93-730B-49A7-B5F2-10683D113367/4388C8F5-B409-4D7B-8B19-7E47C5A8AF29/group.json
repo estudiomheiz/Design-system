@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "4388C8F5-B409-4D7B-8B19-7E47C5A8AF29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "589652A8-4BAC-4602-AFB8-1C60711AF256"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00567C00-ABFC-4FA9-B275-3E56A837D558"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29BDCE7C-2AE5-4FEA-A70E-912570646C76"
+    }
+  ],
+  "name": "desk/icons/2º/back_to_top",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "_class": "group",
+  "do_objectID": "968893EC-9009-40CE-AA33-75E2CC1D26B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "497D4A5C-CBC7-43AF-B409-FF5B05C61C46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "01632DD7-5B32-4A3D-B405-B7F433655924"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A26354C-F3BD-438C-A107-5941D12CA5EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "676887FF-2B0A-4855-AFCF-503D3A366757"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D7C36A0-5156-446A-A9D2-1E2656507B7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F3E07D6-5A07-458B-946E-6C50F7F922EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F61CCD8-FC33-4447-9A69-FADB57368304"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D3EFCBB-61B4-45F5-93CB-1B873A2BCABB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CBD8411F-D211-42DB-887E-C144295746C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "47101025-C5A3-490F-BED8-5358936142FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38374BE9-5275-4F07-8D94-84639D587193"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "47C53D86-EC5E-4F2D-8A7E-E557A9F7D4C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00B6C84F-B429-4DC3-8DDA-4285B627980C"
+    }
+  ],
+  "name": "desk/icons/6º/vehiculo_omnibus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

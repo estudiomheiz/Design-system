@@ -1,0 +1,175 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "C008E130-6104-4D33-A705-E2E55CDFF066",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14,
+    "width": 16,
+    "x": 0,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FFC4B465-87F4-4D65-84B7-B06342B00893"
+    },
+    {
+      "class": "shapePath",
+      "id": "7DA4B6DA-7481-4A8B-BD72-D5A9BE310381"
+    },
+    {
+      "class": "shapePath",
+      "id": "E326B979-877C-42E3-8460-6EEB5DE394C7"
+    },
+    {
+      "class": "shapePath",
+      "id": "41A8EB57-9246-49EF-B4B7-E7D2762E12F6"
+    },
+    {
+      "class": "shapePath",
+      "id": "7F3F4D0D-8E51-49A8-AC4E-A23F0A919AF4"
+    },
+    {
+      "class": "shapePath",
+      "id": "9FC5F710-4D5F-442E-8569-EDE1BF5EC734"
+    },
+    {
+      "class": "shapePath",
+      "id": "4657DD2C-7A83-4B87-9E57-E7552D487B8B"
+    },
+    {
+      "class": "shapePath",
+      "id": "5769C731-ABD4-4293-AD47-AB9232C9C4E9"
+    },
+    {
+      "class": "shapePath",
+      "id": "B831D438-B6B9-494B-9D98-E78D64BFA1C2"
+    },
+    {
+      "class": "shapePath",
+      "id": "CAE7CF8B-A675-483B-A90C-01A35B9BF10C"
+    },
+    {
+      "class": "shapePath",
+      "id": "929D7BD5-1DD8-4A31-9B01-DE6736022B38"
+    },
+    {
+      "class": "shapePath",
+      "id": "8E2C9275-DDB5-4456-8940-36A15455D09E"
+    },
+    {
+      "class": "shapePath",
+      "id": "D8945AC9-18B8-4ECD-BA89-0CA0238FEC26"
+    },
+    {
+      "class": "shapePath",
+      "id": "0FE0B7BC-0D8E-4269-BB4D-1883B4C82CE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "F373D83B-D894-4C45-B951-4DFE0157F588"
+    },
+    {
+      "class": "shapePath",
+      "id": "20BEF6D7-B663-4683-A799-DDCDA492CD1E"
+    }
+  ],
+  "name": "icons/1º/line-02/calendar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.4392156862745098,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C6E0A77F-77AE-4391-9F8F-0F349942206F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 368,
+    "x": 0,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2CDA0F9D-DCA2-4FD0-84E1-1B233D9A53A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9893330-512A-4538-BF6E-3DB40CBD0034"
+    },
+    {
+      "class": "text",
+      "id": "4A8A9B11-D73A-41EE-BD9F-0192D3FD22B4"
+    },
+    {
+      "class": "text",
+      "id": "B5F727A6-81AB-4874-A9D9-5CC12727CA6B"
+    }
+  ],
+  "name": "elements/form/mob/dropdown/disabled",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

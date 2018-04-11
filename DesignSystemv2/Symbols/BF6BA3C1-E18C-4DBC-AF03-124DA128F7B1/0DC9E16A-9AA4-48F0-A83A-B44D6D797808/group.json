@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "0DC9E16A-9AA4-48F0-A83A-B44D6D797808",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 191,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "41FFDCD4-8E09-4991-BC17-8801093C3CC2"
+    },
+    {
+      "class": "group",
+      "id": "A3FEFB02-76DE-4925-9FCB-08F2BCE0132D"
+    }
+  ],
+  "name": "elements/form/mob/checkbox/active-disabled",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

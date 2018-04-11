@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "D93F1FBD-E260-464C-8CCB-9B45BB2615E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "26070219-2DF7-435D-BBF4-3AD567440B2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7120DD43-7A66-4869-8C82-5B2C775E287D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D392F5ED-227D-4066-9FD8-6425E63AFF46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38114D34-DE4B-4BA1-92C5-B9105D0E5B2A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43516B2B-664A-4DBC-B322-433EF6FAFFAB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFA74251-8AE3-44E2-AB4F-F4F335408EA1"
+    }
+  ],
+  "name": "desk/icons/6º/poliza-enviada",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

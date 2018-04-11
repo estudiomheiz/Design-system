@@ -1,0 +1,71 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "69BB73E7-DDC4-4FCC-B90F-8B324843E390",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15.988,
+    "width": 13.75906976744186,
+    "x": 0.1271395348837196,
+    "y": 0.006000000000000226
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FA185B60-0942-4556-BA18-D2F2D433DF0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "0035B61F-FDCC-4659-A05F-3D8F2D73996A"
+    },
+    {
+      "class": "shapePath",
+      "id": "B39B6443-55E6-47F7-84A7-2AB5245B0B1B"
+    },
+    {
+      "class": "shapePath",
+      "id": "A97EFB90-B76B-45AD-8BB2-3AE087877383"
+    },
+    {
+      "class": "shapePath",
+      "id": "8BBE0051-BB7B-44D7-A0B4-767EA2CB124B"
+    },
+    {
+      "class": "shapePath",
+      "id": "81B7C541-2AFC-4569-A749-E36293822CA6"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "821AE1D1-4E18-4C4E-8A81-BF047C0AF3D8"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

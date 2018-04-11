@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6D3D4AAC-D6C1-435C-A7D2-F14ACB9E8BB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 459,
+    "width": 472,
+    "x": 1165,
+    "y": 5500
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "225AA137-6DED-4B0E-A7AC-3B401A31DBA7"
+    },
+    {
+      "class": "bitmap",
+      "id": "6D09AF59-DDB7-425F-BAFB-C829554B3E9F"
+    }
+  ],
+  "name": "Apple iPhone 6s Silver",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

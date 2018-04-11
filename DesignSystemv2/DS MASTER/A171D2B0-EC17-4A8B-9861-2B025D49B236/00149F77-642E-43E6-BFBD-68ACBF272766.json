@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "00149F77-642E-43E6-BFBD-68ACBF272766",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E11FC094-0DAE-4D40-A3FE-E5F8B7FA19AE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3230104-828C-417C-8C9B-825F509EA0DD",
+    "height": 90,
+    "width": 368,
+    "x": 1406,
+    "y": 1517
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/form/mob/text-input/disabled copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB22BD70-4C1E-46EF-9BDA-A9B68D96F76F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E96F21DC-09D5-488E-9590-25CE4861CFF2",
+  "verticalSpacing": 0
+}
