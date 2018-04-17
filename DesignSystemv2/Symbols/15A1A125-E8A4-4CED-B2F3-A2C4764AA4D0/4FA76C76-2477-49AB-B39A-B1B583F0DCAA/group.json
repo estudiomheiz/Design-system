@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "4FA76C76-2477-49AB-B39A-B1B583F0DCAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34385329-F5A1-4638-9327-1EE9F44EEF34",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5A6AA808-1D60-4773-AC92-FA9341D12A9A",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "06BE9031-DBA4-4526-B908-15A9D076F4B1"
+    },
+    {
+      "class": "text",
+      "id": "EE61B8CC-7313-4E7C-894F-5B2CB6F8ADCD"
+    },
+    {
+      "class": "text",
+      "id": "0BD83B00-E6CF-40C9-8E2C-498BD73ED2D6"
+    }
+  ],
+  "name": "components/common/instruction/desk/toast/single-line",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0EE2A555-322A-4F2D-98A1-4D5E19AECC6D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

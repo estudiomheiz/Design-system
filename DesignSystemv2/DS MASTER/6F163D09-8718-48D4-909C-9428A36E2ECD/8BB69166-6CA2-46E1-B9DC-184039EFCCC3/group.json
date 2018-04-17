@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "8BB69166-6CA2-46E1-B9DC-184039EFCCC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB8EAEF0-7627-467E-99B3-39DC6C272A47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD3D78F5-4656-4C24-B1BC-A0EB7A0357F7",
+    "height": 459,
+    "width": 472,
+    "x": 1165,
+    "y": 7091
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "140992AF-9799-4C9B-8771-496B3326F196"
+    },
+    {
+      "class": "bitmap",
+      "id": "FDA93BA0-4746-4FB7-949D-8208CCADBEC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "146A8D7F-5828-41DB-9C12-44FF48BEC19F"
+    }
+  ],
+  "name": "Apple iPhone 6s Silver Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3F2BAA5-1DB4-4952-850C-B88854B4B4FB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

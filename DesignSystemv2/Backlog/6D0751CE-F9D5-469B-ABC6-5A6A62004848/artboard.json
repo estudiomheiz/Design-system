@@ -27,9 +27,9 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "gridSize": 16,
+    "gridSize": 14,
     "isEnabled": true,
-    "thickGridTimes": 8
+    "thickGridTimes": 7
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,14 +63,6 @@
     {
       "class": "text",
       "id": "52BB2DBD-59B5-4B84-8CD2-B4B63F6239C9"
-    },
-    {
-      "class": "group",
-      "id": "54258E32-22BF-41F4-8C29-EA2DC8FA01C0"
-    },
-    {
-      "class": "group",
-      "id": "4FA76C76-2477-49AB-B39A-B1B583F0DCAA"
     },
     {
       "class": "group",

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "0B5887E2-0E6C-4FFE-9C2F-53670B4FDBB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8976246F-C252-4A46-BD7E-A164077E83C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C689B8C5-112D-4762-9E07-3BF1A259179F",
+    "height": 70,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "17B7F1FC-A39C-49C2-9B55-D8912410A3A1"
+    },
+    {
+      "class": "text",
+      "id": "D61D69EA-5CBD-416E-BB92-44F84D58B663"
+    }
+  ],
+  "name": "components/common/instruction/mob/toast/multi-line",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B37C9886-8972-4AA1-A349-61C57D43B753",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
